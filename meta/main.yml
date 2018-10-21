@@ -64,7 +64,5 @@ dependencies:
   # if you add dependencies to this list.
   - src: redtail83.git2
     version: v1.0.0
-  - src: redtail83.oraclejdk8
-    version: v1.0.0
   - src: redtail83.maven3
     version: v1.0.1
