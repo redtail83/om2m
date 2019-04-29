@@ -19,7 +19,7 @@ Dependencies
 This role depends on:
 
 * redtail83.git2
-* redtail83.oraclejdk8
+* redtail83.adoptopenjdk8_hotspot
 * redtail83.maven3
 
 Example Playbook
