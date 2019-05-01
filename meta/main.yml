@@ -65,4 +65,4 @@ dependencies:
   - src: redtail83.git2
     version: v1.0.1
   - src: redtail83.maven3
-    version: v1.0.3
+    version: v1.0.4
