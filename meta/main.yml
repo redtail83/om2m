@@ -66,3 +66,4 @@ dependencies:
     version: v1.0.1
   - src: redtail83.maven3
     version: v1.0.4
+    maven3_version: 3.6.0
